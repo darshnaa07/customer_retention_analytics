@@ -1,0 +1,21 @@
+CUSTOMER CHURN & RETENTION ANALYSIS
+======================================
+
+Total customers:7043
+Customer who left:1869
+Customer who stayed:5174
+
+Churn rate:26.536987%
+Retention rate:73.463013%
+
+CONTRACT ANALYSIS
+---------------------
+Highest-churn contract:Month-to-month
+Its churn rate:42.709677
+
+BUSINESS RECOMMENDATIONS
+---------------------------
+1.Investigate why customer leave.
+2.Offer suitable retention plans to at-risk customers.
+3.Collect customer feedback to identify service problems and their views.
+4.Monitor churn rate regularly.
